@@ -163,6 +163,7 @@ herchat_venv/bin/twist
 herchat_venv/bin/twistd
 .vscode/launch.json
 selenium/Local State
+src/selenium/*
 src/selenium/BrowserMetrics-spare.pma
 src/selenium/First Run
 src/selenium/Last Version
