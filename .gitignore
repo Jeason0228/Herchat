@@ -127,6 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+herchat_venv/*
 herchat_venv/pyvenv.cfg
 herchat_venv/bin/activate
 herchat_venv/bin/activate.csh
