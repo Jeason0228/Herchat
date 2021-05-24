@@ -127,7 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-herchat_venv/*
+herchat_venv/
 herchat_venv/pyvenv.cfg
 herchat_venv/bin/activate
 herchat_venv/bin/activate.csh
@@ -162,8 +162,8 @@ herchat_venv/bin/trial
 herchat_venv/bin/twist
 herchat_venv/bin/twistd
 .vscode/launch.json
-selenium/Local State
-src/selenium/*
+selenium/
+src/selenium/
 src/selenium/BrowserMetrics-spare.pma
 src/selenium/First Run
 src/selenium/Last Version
