@@ -1,50 +1,42 @@
-import requests
-import json
-import time
-import numpy as np
-from pprint import pprint
+from typing import List
 
-BACK_END_URL = "https://bck.hermes.com/products?locale=fr_fr&category=WOMENBAGSBAGSCLUTCHES&sort=relevance"
-ORIGIN_URL = "https://www.hermes.com"
-REFER_URL = "https://www.hermes.com/"
 
-base_headers = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:88.0) Gecko/20100101 Firefox/88.0",
-    "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-    "Cache-Control": "max-age=0",
-}
+class Product:
+    sku: str
+    title: str
+    product_code: str
+    assets: List[Asset]
+    more_colors: bool
+    size: str
+    avg_color: str
+    department_code: str
+    family_code: str
+    division_code: str
+    price: int
+    url: str
+    slug: str
+    has_stock: bool
+    has_stock_retail: bool
+    has_stock_or_has_stock_retail: bool
+    stock: Stock
+    personalize: bool
 
-def load_cookies(path="../json/ecom_sess.json"):
-    with open(path, "r") as file:
-        return json.load(file)
-
-def get_products_list(cookie):
-
-    product_list_request = requests.get(
-        BACK_END_URL,
-        cookies={
-            "datadome": cookie["datadome"],
-            "ECOM_SESS": cookie["ecom_sess"],
-        },
-        headers={
-            **base_headers,
-            "Host": "bck.hermes.com",
-            "Accept": "application/json, text/plain, */*",
-            "Origin": ORIGIN_URL,
-            "Referer": REFER_URL,
-            "Cookie": "datadome=%s; ECOM_SESS=%s" % (cookie["datadome"], cookie["ecom_sess"]),
-            "TE": "Trailers",
-        },
-    )
-    return product_list_request.json()
-
-ecom_cookie = load_cookies()
-
-while True:
-    wait_time = np.random.randint(10, 20)
-    print("Wait %d seconds." % wait_time)
-    time.sleep(wait_time)
-    product_list_json = get_products_list(ecom_cookie)
-    print(product_list_json["total"])
+    def __init__(self, sku: str, title: str, product_code: str, assets: List[dict], more_colors: bool, size: str, avg_color: str, department_code: str, family_code: str, division_code: str, price: int, url: str, slug: str, has_stock: bool, has_stock_retail: bool, has_stock_or_has_stock_retail: bool, stock: dict, personalize: bool) -> None:
+        self.sku = sku
+        self.title = title
+        self.product_code = product_code
+        self.assets = assets
+        self.more_colors = more_colors
+        self.size = size
+        self.avg_color = avg_color
+        self.department_code = department_code
+        self.family_code = family_code
+        self.division_code = division_code
+        self.price = price
+        self.url = url
+        self.slug = slug
+        self.has_stock = has_stock
+        self.has_stock_retail = has_stock_retail
+        self.has_stock_or_has_stock_retail = has_stock_or_has_stock_retail
+        self.stock = stock
+        self.personalize = personalize
