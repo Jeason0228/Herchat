@@ -579,8 +579,6 @@ src/selenium/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_li
 src/selenium/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libpnacl_irt_shim_dummy_a
 src/selenium/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_llc_nexe
 src/selenium/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_sz_nexe
-src/rdv/templates/index.html
-src/rdv/templates/tables.html
 src/rdv/templates/css/sb-admin-2.css
 src/rdv/templates/css/sb-admin-2.min.css
 src/rdv/templates/img/undraw_posting_photo.svg

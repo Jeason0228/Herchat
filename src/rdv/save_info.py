@@ -9,13 +9,21 @@ from stem import Signal, response
 from stem.control import Controller
 import threading
 
+TOTAL_COUNT = 0
+locker = threading.Lock()
+country_code = {
+    "usa": "US",
+    "china": "CN",
+    "france": "FR"
+}
+
 
 def get_ip():
     ip = requests.get('https://api.ipify.org').text
     print('My public IP address is: {}'.format(ip))
 
-def email_account(fullname):
-    subfix = "@hgmail.uu.me"
+def email_account(fullname, domain):
+    subfix = f"@{domain}.uu.me"
     code = "zi"
     rand_num = randint(1, 10)
     if rand_num <= 3:
@@ -30,7 +38,8 @@ def email_account(fullname):
     return account + subfix
 
 
-def save_info():
+def save_info(domain, country):
+    global TOTAL_COUNT
     mongo_client = MongoClient()
 
     person_db = mongo_client.person_info
@@ -42,25 +51,21 @@ def save_info():
     print(balance)
 
 
-    for i in range(1):
-        with Controller.from_port(port = 9051) as controller:
-            # controller.authenticate()
-            # socks.setdefaultproxy(proxy_type=socks.PROXY_TYPE_SOCKS5, addr="127.0.0.1", port=9050)
-            # socket.socket = socks.socksocket
-            # controller.signal(Signal.NEWNYM)
-            # sleep(controller.get_newnym_wait())
-
+    for i in range(250):
+        if TOTAL_COUNT >= 1200:
+            break
+        else:
             # get_ip()
             person_dict = {}
             surname, name, fullname = get_surname_name()
             person_dict["surname"] = surname
             person_dict["name"] = name
-            person_dict["phone_country"] = "US"
+            person_dict["phone_country"] = country_code[country]
             person_dict["prefer"] = "faubourg"
-            person_dict["email"] = email_account(fullname)
+            person_dict["email"] = email_account(fullname, domain)
             person_dict["passport_id"] = ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(9))
             # person_dict["phone_number"] = "111"
-            number_info = buy_number("usa")
+            number_info = buy_number(country)
             
             order_id = number_info["id"]
             phone = number_info["phone"]
@@ -79,6 +84,8 @@ def save_info():
                 # print(code)
                 if send_sms_code(redirct_url, code):
                     finished_order(order_id)
+                    with locker:
+                        TOTAL_COUNT += 1
             except IndexError as e:
                 print("sms problem, finished the order and continue")
                 cancel_order(order_id)
