@@ -51,7 +51,7 @@ def save_info(domain, country):
     print(balance)
 
 
-    for i in range(250):
+    for i in range(1):
         if TOTAL_COUNT >= 1200:
             break
         else:
@@ -92,3 +92,4 @@ def save_info(domain, country):
 
 
 
+save_info("rgmail", "usa")
