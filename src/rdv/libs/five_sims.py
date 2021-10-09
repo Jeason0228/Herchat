@@ -2,9 +2,9 @@ import re
 from time import sleep, time
 import requests
 from requests import api
-from utils import api_key
-from rdv_page import send_rdv_infos
-from sms_code import send_sms_code
+from libs.utils import api_key
+from libs.rdv_page import send_rdv_infos
+from libs.sms_code import send_sms_code
 from random import randint
 
 

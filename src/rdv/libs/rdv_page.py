@@ -1,7 +1,7 @@
-from utils import base_headers
-from sms_code import send_sms_code
+from libs.utils import base_headers
+from libs.sms_code import send_sms_code
 import requests
-from recaptcha import g_response
+from libs.recaptcha import g_response
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
@@ -32,8 +32,8 @@ def send_rdv_infos(person):
         "prefer": person["prefer"],
         "surname": person["surname"],
         "name": person["name"],
-        "phone_country": person["phone_country"],
-        "phone_number": person["phone_number"],
+        "phone_country": "FR",
+        "phone_number": "0769142022",
         "email": person["email"],
         "passport_id": person["passport_id"],
         "cgu": "on",

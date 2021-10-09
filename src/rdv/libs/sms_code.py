@@ -1,6 +1,6 @@
-from utils import base_headers
+from libs.utils import base_headers
 import requests
-from sms_receive import receive_msg
+from libs.sms_receive import receive_msg
 
 def send_sms_code(url,code):
     # code = receive_msg(number).strip()

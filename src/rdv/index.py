@@ -2,9 +2,9 @@ from flask import Flask
 from flask import render_template, redirect
 from pymongo import MongoClient
 from datetime import datetime, date
-
+import os
 from wtforms.fields.core import SelectField
-from save_info import *
+from libs.save_info import *
 import pandas as pd
 from flask import send_file
 
@@ -16,6 +16,8 @@ from wtforms.validators import DataRequired
 
 app = Flask(__name__)
 # Flask-WTF requires an encryption key - the string can be anything
+app.config["MONGO_URI"] = 'mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + '@' + os.environ['MONGODB_HOSTNAME'] + ':27017/' + os.environ['MONGODB_DATABASE']
+
 app.config['SECRET_KEY'] = 'C2HWGVoMGfNTBsrYQg8EcMrdTimkZfAb'
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 Bootstrap(app)

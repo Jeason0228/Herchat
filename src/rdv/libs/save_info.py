@@ -3,8 +3,8 @@ import random, string
 from time import sleep
 from pymongo import MongoClient
 from datetime import datetime, date
-from five_sims import *
-from name import get_surname_name
+from libs.five_sims import *
+from libs.name import get_surname_name
 from stem import Signal, response
 from stem.control import Controller
 import threading
@@ -65,13 +65,13 @@ def save_info(domain, country):
             person_dict["email"] = email_account(fullname, domain)
             person_dict["passport_id"] = ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(9))
             # person_dict["phone_number"] = "111"
-            number_info = buy_number(country)
+            # number_info = buy_number(country)
             
-            order_id = number_info["id"]
-            phone = number_info["phone"]
+            # order_id = number_info["id"]
+            # phone = number_info["phone"]
 
-            person_dict["phone_number"] = phone
-            person_dict["nummber_info"] = number_info
+            # person_dict["phone_number"] = phone
+            # person_dict["nummber_info"] = number_info
             person_dict["date"] = datetime.now()
             redirct_url = send_rdv_infos(person_dict)
             person_dict["url"] = redirct_url
@@ -92,4 +92,4 @@ def save_info(domain, country):
 
 
 
-save_info("rgmail", "usa")
+# save_info("rgmail", "usa")
