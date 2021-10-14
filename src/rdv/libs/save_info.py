@@ -37,8 +37,48 @@ def email_account(fullname, domain):
         account = ''.join(charset)
     return account + subfix
 
+def send_request(person_db, person_list, resend=False):
+    global TOTAL_COUNT
 
-def save_info(domain, country):
+    for person in person_list:
+        rdv = person.copy()
+        rdv.pop("_id")
+        rdv["prefer"] = "faubourg"
+        rdv["date"] = datetime.now()
+        rdv["phone_number"] = "33"+ str(person["phone_number"])
+        print(rdv)
+        redirct_url = send_rdv_infos(rdv)
+        rdv["url"] = redirct_url
+        rdv_page = person_db.rdv
+        if redirct_url and len(redirct_url) >= len("https://rendezvousparis.hermes.com/client/register/"):
+            rdv["status"] = True
+            if not resend:
+                rdv_page.insert_one(rdv)
+            else:
+                rdv_page.update_one({"phone_number": rdv["phone_number"], "status": True} ,{ "$set": { "status": True} })
+            tried =0
+            while True:
+                sleep(10)
+                print("waiting for sms...")
+                new_rdv = rdv_page.find_one({"phone_number": rdv["phone_number"], "status": True})
+                code = new_rdv.get("code", None)
+                if code is not None:
+                    if send_sms_code(redirct_url, code):
+                        print("code sent")
+                        break
+                else:
+                    tried += 1
+                    if tried > 5:
+                        print("no code reveived")
+                        break
+        else:
+            rdv["status"] = False
+            print("rdv request sent failed")
+            rdv_page.insert_one(rdv)
+            return False
+
+
+def save_info(domain, country, number):
     global TOTAL_COUNT
     mongo_client = MongoClient()
 
@@ -51,8 +91,8 @@ def save_info(domain, country):
     print(balance)
 
 
-    for i in range(1):
-        if TOTAL_COUNT >= 1200:
+    for i in range(number):
+        if TOTAL_COUNT >= number:
             break
         else:
             # get_ip()

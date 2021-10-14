@@ -1,10 +1,16 @@
 from flask import Flask
-from flask import render_template, redirect
+from flask import render_template, redirect, request
 from pymongo import MongoClient
 from datetime import datetime, date
+from flask import jsonify
+
 import os
+import json
 from wtforms.fields.core import SelectField
 from libs.save_info import *
+from libs.excel_parse import *
+from libs.user_dao import *
+from libs.sms_receive import *
 import pandas as pd
 from flask import send_file
 
@@ -16,18 +22,20 @@ from wtforms.validators import DataRequired
 
 app = Flask(__name__)
 # Flask-WTF requires an encryption key - the string can be anything
-app.config["MONGO_URI"] = 'mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + '@' + os.environ['MONGODB_HOSTNAME'] + ':27017/' + os.environ['MONGODB_DATABASE']
 
+# MONGO_URI = 'mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + '@' + os.environ['MONGODB_HOSTNAME'] + ':27017/' + os.environ['MONGODB_DATABASE']
+MONGO_URI = "mongodb://127.0.0.1"
 app.config['SECRET_KEY'] = 'C2HWGVoMGfNTBsrYQg8EcMrdTimkZfAb'
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 Bootstrap(app)
 SUBMITTED = False
 SUBMITTED_DATE = None
 
-mongo_client = MongoClient()
+mongo_client = MongoClient(MONGO_URI)
 
 person_db = mongo_client.person_info
 person_page= person_db.person
+rdv_page = person_db.rdv
 
 class NameForm(FlaskForm):
     domain = StringField('域名', validators=[DataRequired()])
@@ -68,12 +76,12 @@ def hello():
 
     return render_template("index.html", form=form)
 
-@app.route("/run/<domain>/<country>/")
-def run(domain, country):
+@app.route("/run/<domain>/<country>/<number>/")
+def run(domain, country, number):
     xl = []
     try:
         for i in range(4):
-            x = threading.Thread(target=save_info, args=(domain, country))
+            x = threading.Thread(target=save_info, args=(domain, country, number))
             x.start()
             xl.append(x)
         
@@ -91,6 +99,37 @@ def count():
     start = datetime.combine(date.today(), datetime.min.time())
     end = datetime.combine(date.today(), datetime.max.time())
     return str(date.today()) + " 总数：" + str(person_page.find({"date": {"$lt": end, "$gte": start}}).count())
+
+@app.route("/send")
+def send():
+    all_user = get_all_users(person_page)
+    send_request(person_db, all_user)
+    return str(date.today()) + " 总数：" + str(len(all_user))
+
+@app.route("/sms_input/<telephone_num>/<sms_text>/<date>/<sms_port>/", methods=['GET'])
+def sms_input(telephone_num, sms_text, date, sms_port):
+    print(telephone_num, sms_text, date, sms_port)
+    save_sms_code(rdv_page, telephone_num, sms_text, sms_port, date)
+    resp = jsonify(success=True)
+    return resp
+
+@app.route("/upload", methods=['GET', 'POST'])
+def upload_file():
+    if request.method == 'POST':
+        print(request.files['file'])
+        f = request.files['file']
+        f.save(os.path.join("./assects/uploads", f.filename))
+        people_list, data_file = parse_excel(f)
+        insert_user(db_page=person_page, person_list=people_list)
+        return data_file.to_html()
+    return '''
+    <!doctype html>
+    <title>Upload an excel file</title>
+    <h1>Excel file upload (csv, tsv, csvz, tsvz only)</h1>
+    <form action="" method=post enctype=multipart/form-data>
+    <p><input type=file name=file><input type=submit value=Upload>
+    </form>
+    '''
 
 @app.route("/csv")
 def csv():
