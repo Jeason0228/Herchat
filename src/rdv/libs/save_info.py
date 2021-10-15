@@ -37,13 +37,19 @@ def email_account(fullname, domain):
         account = ''.join(charset)
     return account + subfix
 
-def send_request(person_db, person_list, resend=False):
+def send_request(person_db, person_list):
     global TOTAL_COUNT
 
+    all_rdv_object = {
+        "date": datetime.now(),
+        "prefer": "faubourg",
+    }
+
+    rdv_list = []
     for person in person_list:
         rdv = person.copy()
-        rdv.pop("_id")
-        rdv["prefer"] = "faubourg"
+        _id = rdv.pop("_id")
+        rdv["prefer"] = all_rdv_object["prefer"]
         rdv["date"] = datetime.now()
         rdv["phone_number"] = "33"+ str(person["phone_number"])
         print(rdv)
@@ -52,30 +58,35 @@ def send_request(person_db, person_list, resend=False):
         rdv_page = person_db.rdv
         if redirct_url and len(redirct_url) >= len("https://rendezvousparis.hermes.com/client/register/"):
             rdv["status"] = True
-            if not resend:
-                rdv_page.insert_one(rdv)
-            else:
-                rdv_page.update_one({"phone_number": rdv["phone_number"], "status": True} ,{ "$set": { "status": True} })
-            tried =0
-            while True:
-                sleep(10)
-                print("waiting for sms...")
-                new_rdv = rdv_page.find_one({"phone_number": rdv["phone_number"], "status": True})
-                code = new_rdv.get("code", None)
-                if code is not None:
-                    if send_sms_code(redirct_url, code):
-                        print("code sent")
-                        break
-                else:
-                    tried += 1
-                    if tried > 5:
-                        print("no code reveived")
-                        break
         else:
             rdv["status"] = False
             print("rdv request sent failed")
-            rdv_page.insert_one(rdv)
-            return False
+        rdv_list.append(rdv)
+    all_rdv_object["rdv_list"] = rdv_list
+    rdv_page.insert_one(all_rdv_object)
+
+
+def send_sms(rdv_page, phone_number):
+    start = datetime.combine(date.today(), datetime.min.time())
+    end = datetime.combine(date.today(), datetime.max.time())
+    # Make a query to the specific DB and Collection
+    todey_rdv = rdv_page.find_one({"date": {"$lt": end, "$gte": start}})
+    rdv_list = todey_rdv["rdv_list"]
+    tried =0
+    # while True:
+    # print("waiting for sms...")
+    new_rdv = rdv_page.find_one({"rdv_list": {"$elemMatch": {"phone_number": str(phone_number), "status": True, "have_code": True}}})
+    person = new_rdv["rdv_list"][0]
+    code = person.get("code", None)
+    redirct_url = person.get("redirct_url", None)
+    if code is not None:
+        if send_sms_code(redirct_url, code):
+            print("code sent")
+    else:
+        tried += 1
+        print("retring...")
+        if tried > 5:
+            print("no code reveived")
 
 
 def save_info(domain, country, number):

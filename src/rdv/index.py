@@ -106,10 +106,18 @@ def send():
     send_request(person_db, all_user)
     return str(date.today()) + " 总数：" + str(len(all_user))
 
+@app.route("/test")
+def test():
+    rdv_object = rdv_page.find_one({"rdv_list": {"$elemMatch": {"phone_number": "33769142022"}}})
+    # send_request(person_db, all_user)
+    print(rdv_object)
+    return "dict(rdv_object)"
+
 @app.route("/sms_input/<telephone_num>/<sms_text>/<date>/<sms_port>/", methods=['GET'])
 def sms_input(telephone_num, sms_text, date, sms_port):
     print(telephone_num, sms_text, date, sms_port)
     save_sms_code(rdv_page, telephone_num, sms_text, sms_port, date)
+    send_sms(rdv_page, telephone_num)
     resp = jsonify(success=True)
     return resp
 
@@ -130,6 +138,8 @@ def upload_file():
     <p><input type=file name=file><input type=submit value=Upload>
     </form>
     '''
+
+
 
 @app.route("/csv")
 def csv():

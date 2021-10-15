@@ -5,6 +5,7 @@ import requests
 def send_sms_code(url,code):
     # code = receive_msg(number).strip()
     print(f"code is {code}, sending code info")
+    print(url)
     send_sms_response = requests.post(
             url,
             headers={
