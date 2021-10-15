@@ -19,8 +19,6 @@ RUN adduser -u $USER_ID --ingroup www www --shell /bin/sh
 
 RUN chown -R 1000 ./
 
-RUN mkdir ./assects/uploads
-
 USER www
 
 EXPOSE 5000
