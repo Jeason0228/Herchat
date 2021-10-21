@@ -37,7 +37,7 @@ def send_rdv_infos(person):
             "surname": person["surname"],
             "name": person["name"],
             "phone_country": "FR",
-            "phone_number": "0769142022",
+            "phone_number": person["phone_number"],
             "email": person["email"],
             "passport_id": person["passport_id"],
             "cgu": "on",

@@ -1,0 +1,857 @@
+COM41,,2021-10-20 17:13:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 629969.
+COM48,,2021-10-20 17:14:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 557484.
+COM53,,2021-10-20 17:16:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 224727.
+COM47,,2021-10-20 17:21:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 035239.
+COM52,,2021-10-20 17:21:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 826459.
+COM46,,2021-10-20 17:21:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 617603.
+COM53,,2021-10-20 17:22:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 464718.
+COM54,,2021-10-20 17:22:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 339156.
+COM47,,2021-10-20 17:22:04,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 916846.
+COM54,,2021-10-20 17:22:09,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 261744.
+COM44,,2021-10-20 17:22:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 155291.
+COM52,,2021-10-20 17:22:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 890931.
+COM44,,2021-10-20 17:22:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 902144.
+COM46,,2021-10-20 17:22:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 541425.
+COM40,,2021-10-20 17:22:50,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 632362.
+COM51,,2021-10-20 17:22:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 900778.
+COM41,,2021-10-20 17:23:33,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 780649.
+COM40,,2021-10-20 17:23:33,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 123206.
+COM45,,2021-10-20 17:23:41,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 040511.
+COM45,,2021-10-20 17:24:07,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 509733.
+COM48,,2021-10-20 17:24:11,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 831992.
+COM42,,2021-10-20 17:24:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 332435.
+COM39,,2021-10-20 17:24:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 299432.
+COM42,,2021-10-20 17:38:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 622206.
+COM39,,2021-10-20 17:38:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 680361.
+COM48,,2021-10-20 17:38:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 645987.
+COM51,,2021-10-20 17:38:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 945643.
+COM44,,2021-10-20 17:38:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 331274.
+COM46,,2021-10-20 17:38:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 957693.
+COM49,,2021-10-20 17:38:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 794813.
+COM50,,2021-10-20 17:38:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 643564.
+COM40,,2021-10-20 17:38:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 460943.
+COM53,,2021-10-20 17:38:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 619958.
+COM50,,2021-10-20 17:38:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 350936.
+COM49,,2021-10-20 17:38:48,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 377209.
+COM45,,2021-10-20 17:39:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 982124.
+COM43,,2021-10-20 17:40:12,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 132823.
+COM47,,2021-10-20 17:42:12,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 134614.
+COM52,,2021-10-20 17:42:37,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 728493.
+COM41,,2021-10-20 17:42:41,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 178347.
+COM54,,2021-10-20 17:42:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 755233.
+COM46,,2021-10-20 17:44:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 995184.
+COM53,,2021-10-20 17:44:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 239925.
+COM53,,2021-10-20 17:44:01,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 294759.
+COM49,,2021-10-20 17:44:13,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 231341.
+COM48,,2021-10-20 17:44:13,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 116178.
+COM47,,2021-10-20 17:44:13,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 028063.
+COM43,,2021-10-20 17:44:14,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 980945.
+COM54,,2021-10-20 17:44:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 470130.
+COM40,,2021-10-20 17:44:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 064629.
+COM51,,2021-10-20 17:44:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 957035.
+COM44,,2021-10-20 17:44:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 453870.
+COM41,,2021-10-20 17:44:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 414070.
+COM39,,2021-10-20 17:45:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 880633.
+COM39,,2021-10-20 17:45:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 692731.
+COM42,,2021-10-20 17:45:55,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 391565.
+COM42,,2021-10-20 17:46:04,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 712915.
+COM47,,2021-10-20 17:51:01,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 556021.
+COM42,,2021-10-20 17:51:05,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 818269.
+COM54,,2021-10-20 17:51:05,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 395131.
+COM39,,2021-10-20 17:51:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 399712.
+COM40,,2021-10-20 17:51:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 016716.
+COM43,,2021-10-20 17:51:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 566832.
+COM44,,2021-10-20 17:51:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 524829.
+COM53,,2021-10-20 17:51:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 827391.
+COM45,,2021-10-20 17:51:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 951454.
+COM48,,2021-10-20 17:51:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 529866.
+COM52,,2021-10-20 17:51:31,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 913448.
+COM46,,2021-10-20 17:51:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 200289.
+COM50,,2021-10-20 17:51:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 210209.
+COM51,,2021-10-20 17:51:40,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 175166.
+COM54,,2021-10-20 17:51:40,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 309425.
+COM49,,2021-10-20 17:52:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 340999.
+COM49,,2021-10-20 17:52:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 443108.
+COM41,,2021-10-20 17:53:05,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 948118.
+COM41,,2021-10-20 17:53:13,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 984223.
+COM40,,2021-10-20 17:54:49,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 518735.
+COM53,,2021-10-20 17:56:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 028074.
+COM48,,2021-10-20 17:57:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 511102.
+COM39,,2021-10-20 17:58:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 042548.
+COM50,,2021-10-20 17:59:13,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 996800.
+COM51,,2021-10-20 18:09:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 970571.
+COM54,,2021-10-20 18:09:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 749110.
+COM50,,2021-10-20 18:09:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 863382.
+COM53,,2021-10-20 18:09:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 112912.
+COM44,,2021-10-20 18:09:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 906359.
+COM41,,2021-10-20 18:09:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 751011.
+COM48,,2021-10-20 18:09:50,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 313940.
+COM39,,2021-10-20 18:09:55,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 194996.
+COM43,,2021-10-20 18:10:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 625251.
+COM42,,2021-10-20 18:10:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 353627.
+COM49,,2021-10-20 18:10:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 214617.
+COM40,,2021-10-20 18:10:12,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 705482.
+COM47,,2021-10-20 18:10:12,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 068627.
+COM52,,2021-10-20 18:10:46,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 013155.
+COM45,,2021-10-20 18:10:50,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 436285.
+COM46,,2021-10-20 18:10:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 782138.
+COM48,,2021-10-20 18:13:13,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 052007.
+COM44,,2021-10-20 18:13:16,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 114523.
+COM54,,2021-10-20 18:13:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 110940.
+COM54,,2021-10-20 18:13:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 889400.
+COM48,,2021-10-20 18:13:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 562402.
+COM44,,2021-10-20 18:13:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 035604.
+COM44,,2021-10-20 18:13:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 193580.
+COM53,,2021-10-20 18:13:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 941299.
+COM50,,2021-10-20 18:13:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 414075.
+COM39,,2021-10-20 18:13:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 608039.
+COM45,,2021-10-20 18:14:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 316683.
+COM45,,2021-10-20 18:15:01,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 566665.
+COM39,,2021-10-20 18:15:30,DC2FCD8F697B3C,URGENT: Vous allez perdre vos droits CPF. Consultez votre budget et rclamez votre formation 100% prise en charge : https://t.ly/imaySTOP https://t.ly/kDF8
+COM39,,2021-10-20 18:16:13,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 318551.
+COM54,,2021-10-20 18:16:13,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 905097.
+COM42,,2021-10-20 18:16:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 477725.
+COM45,,2021-10-20 18:16:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 227824.
+COM40,,2021-10-20 18:16:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 114917.
+COM45,,2021-10-20 18:16:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 523211.
+COM40,,2021-10-20 18:16:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 583075.
+COM51,,2021-10-20 18:16:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 723204.
+COM44,,2021-10-20 18:16:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 399314.
+COM47,,2021-10-20 18:16:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 209824.
+COM53,,2021-10-20 18:16:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 597863.
+COM52,,2021-10-20 18:16:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 817371.
+COM48,,2021-10-20 18:16:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 117167.
+COM50,,2021-10-20 18:16:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 324205.
+COM41,,2021-10-20 18:16:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 610541.
+COM49,,2021-10-20 18:16:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 641737.
+COM49,,2021-10-20 18:16:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 586208.
+COM47,,2021-10-20 18:16:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 347920.
+COM52,,2021-10-20 18:16:48,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 674392.
+COM48,,2021-10-20 18:16:48,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 031429.
+COM47,,2021-10-20 18:16:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 975056.
+COM47,,2021-10-20 18:17:56,33698796927,Veuillez saisir vos informations personnelles sous 48 heures afin d'viter les frais qui peuvent s'appliquer  votre compte PayPal: bit.ly/3v73u8f.
+COM49,,2021-10-20 18:29:58,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 915803.
+COM47,,2021-10-20 18:29:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 070617.
+COM53,,2021-10-20 18:30:02,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 313130.
+COM45,,2021-10-20 18:30:28,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 981326.
+COM40,,2021-10-20 18:30:28,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 607727.
+COM39,,2021-10-20 18:30:31,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 500136.
+COM48,,2021-10-20 18:30:32,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 765930.
+COM42,,2021-10-20 18:30:36,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 756895.
+COM52,,2021-10-20 18:30:40,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 815994.
+COM54,,2021-10-20 18:30:49,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 324796.
+COM51,,2021-10-20 18:32:09,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 262802.
+COM41,,2021-10-20 18:32:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 580884.
+COM46,,2021-10-20 18:32:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 123855.
+COM46,,2021-10-20 18:32:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 138546.
+COM44,,2021-10-20 18:32:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 808126.
+COM39,,2021-10-20 18:35:15,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 537289.
+COM52,,2021-10-20 18:35:15,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 904752.
+COM47,,2021-10-20 18:35:16,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 466710.
+COM52,,2021-10-20 18:35:16,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 956659.
+COM47,,2021-10-20 18:35:16,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 585260.
+COM42,,2021-10-20 18:35:19,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 696443.
+COM40,,2021-10-20 18:35:19,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 847489.
+COM46,,2021-10-20 18:35:19,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 622779.
+COM53,,2021-10-20 18:35:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 558976.
+COM40,,2021-10-20 18:35:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 967712.
+COM45,,2021-10-20 18:35:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 551135.
+COM40,,2021-10-20 18:35:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 372163.
+COM45,,2021-10-20 18:35:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 720794.
+COM39,,2021-10-20 18:35:24,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 554127.
+COM52,,2021-10-20 18:35:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 545714.
+COM47,,2021-10-20 18:35:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 079334.
+COM42,,2021-10-20 18:35:28,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 726818.
+COM46,,2021-10-20 18:35:28,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 835205.
+COM46,,2021-10-20 18:35:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 495029.
+COM51,,2021-10-20 18:35:36,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 345593.
+COM42,,2021-10-20 18:35:37,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 407930.
+COM43,,2021-10-20 18:35:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 711241.
+COM50,,2021-10-20 18:35:41,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 204947.
+COM50,,2021-10-20 18:35:41,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 205053.
+COM51,,2021-10-20 18:35:46,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 051356.
+COM51,,2021-10-20 18:35:46,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 209675.
+COM43,,2021-10-20 18:35:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 311971.
+COM49,,2021-10-20 18:35:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 267244.
+COM49,,2021-10-20 18:36:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 143909.
+COM49,,2021-10-20 18:36:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 992536.
+COM40,,2021-10-20 18:38:19,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 583322.
+COM42,,2021-10-20 18:38:19,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 953538.
+COM50,,2021-10-20 18:38:23,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 365704.
+COM44,,2021-10-20 18:38:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 350846.
+COM53,,2021-10-20 18:38:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 120206.
+COM46,,2021-10-20 18:38:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 165202.
+COM43,,2021-10-20 18:38:54,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 769331.
+COM48,,2021-10-20 18:38:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 235828.
+COM39,,2021-10-20 18:38:57,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 438847.
+COM47,,2021-10-20 18:38:57,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 141480.
+COM52,,2021-10-20 18:38:57,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 947267.
+COM49,,2021-10-20 18:38:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 276667.
+COM54,,2021-10-20 18:40:04,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 622527.
+COM45,,2021-10-20 18:41:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 041884.
+COM51,,2021-10-20 18:42:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 697773.
+COM51,,2021-10-20 18:45:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 003760.
+COM49,,2021-10-20 18:45:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 569665.
+COM51,,2021-10-20 18:45:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 746453.
+COM49,,2021-10-20 18:45:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 456944.
+COM44,,2021-10-20 18:45:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 751279.
+COM43,,2021-10-20 18:45:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 883437.
+COM43,,2021-10-20 18:45:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 687826.
+COM47,,2021-10-20 18:45:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 425015.
+COM50,,2021-10-20 18:45:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 333629.
+COM39,,2021-10-20 18:45:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 873068.
+COM39,,2021-10-20 18:45:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 319155.
+COM45,,2021-10-20 18:45:33,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 938710.
+COM53,,2021-10-20 18:45:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 703237.
+COM52,,2021-10-20 18:45:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 160943.
+COM47,,2021-10-20 18:45:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 541760.
+COM40,,2021-10-20 18:45:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 508442.
+COM40,,2021-10-20 18:45:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 865512.
+COM48,,2021-10-20 18:47:28,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 227925.
+COM54,,2021-10-20 18:48:28,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 080148.
+COM51,,2021-10-20 18:49:07,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 681095.
+COM39,,2021-10-20 18:49:11,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 206158.
+COM41,,2021-10-20 18:49:16,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 510239.
+COM41,,2021-10-20 18:49:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 825149.
+COM42,,2021-10-20 18:50:45,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 887490.
+COM42,,2021-10-20 18:54:10,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 619586.
+COM52,,2021-10-20 18:54:10,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 489840.
+COM48,,2021-10-20 18:54:13,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 729266.
+COM40,,2021-10-20 18:54:14,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 857707.
+COM49,,2021-10-20 18:54:14,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 285652.
+COM46,,2021-10-20 18:54:14,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 068778.
+COM44,,2021-10-20 18:54:14,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 259537.
+COM51,,2021-10-20 18:54:23,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 894266.
+COM53,,2021-10-20 18:54:31,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 345491.
+COM45,,2021-10-20 18:54:32,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 691238.
+COM45,,2021-10-20 18:54:32,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 000069.
+COM43,,2021-10-20 18:54:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 559419.
+COM45,,2021-10-20 18:54:49,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 209906.
+COM43,,2021-10-20 18:55:10,33363219530,Appel manqu??du +33363219530 le 20/10 ?? 11:00
+COM40,,2021-10-20 18:55:14,33955037417,Appel manqu??du +33955037417 le 20/10 ?? 12:21
+COM41,,2021-10-20 18:55:23,DC2FCD8F697B3C,URGENT: Vous allez perdre vos droits CPF. Consultez votre budget et rclamez votre formation 100% prise en charge : https://u.nu/RHPs5STOP http://u.nu/PX30V
+COM43,,2021-10-20 18:55:53,33374663049,Appel manqu??du +33374663049 le 20/10 ?? 11:32
+COM39,,2021-10-20 18:56:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 566672.
+COM41,,2021-10-20 18:56:31,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 983048.
+COM47,,2021-10-20 18:57:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 607956.
+COM44,,2021-10-20 18:59:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 981142.
+COM49,,2021-10-20 18:59:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 333106.
+COM43,,2021-10-20 18:59:42,33789814302,Bonjour, Pour une prise de contact avec votre conseill merci de remplir votre formulaire avant le 25/10/2021. www.mondroitcpf.fr
+COM42,,2021-10-20 18:59:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 569208.
+COM47,,2021-10-20 18:59:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 687206.
+COM40,,2021-10-20 18:59:46,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 768173.
+COM39,,2021-10-20 18:59:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 354254.
+COM39,,2021-10-20 19:00:34,33374663049,Appel manqu??du +33374663049 le 20/10 ?? 10:58
+COM51,,2021-10-20 19:00:45,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 448248.
+COM54,,2021-10-20 19:00:50,3E23B3DF60,Top dpart des Men's Week celio ! Shoppez jusqu' -50% sur une large slection en magasin et sur l'e-shop bit.ly/2021MW ! Voir cond. STOP 36063
+COM47,,2021-10-20 19:07:51,33658019197,Veuillez saisir vos informations personnelles sous 48 heures afin d'viter les frais qui peuvent s'appliquer  votre compte PayPal: bit.ly/3v73u8f
+COM53,,2021-10-20 19:07:51,33650029780,Bonjour.Vous ��tes seule ou votre mari ou petit ami n'aime pas ou pr
+COM53,,2021-10-20 19:07:52,33650029780,atique peu le cunnilingus ? Pourtant c'est une pratique que vous ai
+COM53,,2021-10-20 19:08:01,33650029780,mez particuli��rement.Je suis un homme m?r, tr��s discret, qui adore
+COM53,,2021-10-20 19:08:18,33650029780, faire ce genre de caresses et je vous re?ois dans mon appartement.
+COM53,,2021-10-20 19:08:18,33650029780,Pour certaines, il n��est surement pas ��vident de prendre contact a
+COM39,,2021-10-20 19:08:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 321802.
+COM53,,2021-10-20 19:08:27,33650029780,vec un inconnu. Si tel est le cas soyez plus �� l��aise, je ne mords 
+COM54,,2021-10-20 19:08:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 372502.
+COM48,,2021-10-20 19:08:33,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 779362.
+COM53,,2021-10-20 19:08:37,33650029780,pas, je l��che��L'hygi��ne et la discr��tion faisant partie de la comp
+COM53,,2021-10-20 19:08:37,33650029780,licit��, je les assure et demande la r��ciprocit��.Rencontre enti��rem
+COM42,,2021-10-20 19:08:37,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 176060.
+COM40,,2021-10-20 19:08:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 288373.
+COM53,,2021-10-20 19:08:46,33650029780,ent gratuite, seul votre plaisir compte.Merci !
+COM51,,2021-10-20 19:08:50,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 090829.
+COM41,,2021-10-20 19:08:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 494043.
+COM53,,2021-10-20 19:08:55,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 105671.
+COM53,,2021-10-20 19:09:03,33788927568,Cc
+COM45,,2021-10-20 19:09:07,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 157235.
+COM51,,2021-10-20 19:09:16,33605902560,Appel manqu??du +33605902560 le 20/10 ?? 09:33
+COM53,,2021-10-20 19:09:21,33676290966,Appel manqu??du +33676290966 le 20/10 ?? 09:22
+COM52,,2021-10-20 20:45:41,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 565664.
+COM52,,2021-10-20 20:45:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 115694.
+COM49,,2021-10-20 20:45:46,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 729566.
+COM49,,2021-10-20 20:45:46,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 605695.
+COM49,,2021-10-20 20:45:46,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 187388.
+COM52,,2021-10-20 20:45:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 585194.
+COM52,,2021-10-20 20:45:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 576787.
+COM49,,2021-10-20 20:45:55,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 241246.
+COM52,,2021-10-20 20:46:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 008266.
+COM51,,2021-10-20 20:46:02,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 636531.
+COM46,,2021-10-20 20:46:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 729914.
+COM48,,2021-10-20 20:46:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 930582.
+COM54,,2021-10-20 20:46:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 897100.
+COM48,,2021-10-20 20:46:07,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 099554.
+COM50,,2021-10-20 20:46:10,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 155159.
+COM53,,2021-10-20 20:46:10,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 464756.
+COM47,,2021-10-20 20:46:11,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 909916.
+COM53,,2021-10-20 20:46:11,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 116653.
+COM51,,2021-10-20 20:46:11,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 802177.
+COM46,,2021-10-20 20:46:15,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 281685.
+COM54,,2021-10-20 20:46:15,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 701441.
+COM46,,2021-10-20 20:46:16,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 114971.
+COM48,,2021-10-20 20:46:16,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 112348.
+COM48,,2021-10-20 20:46:16,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 606789.
+COM47,,2021-10-20 20:46:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 494300.
+COM50,,2021-10-20 20:46:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 485536.
+COM53,,2021-10-20 20:46:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 969864.
+COM47,,2021-10-20 20:46:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 629521.
+COM50,,2021-10-20 20:46:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 770348.
+COM51,,2021-10-20 20:46:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 277225.
+COM53,,2021-10-20 20:46:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 548576.
+COM51,,2021-10-20 20:46:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 304195.
+COM49,,2021-10-20 20:46:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 672392.
+COM54,,2021-10-20 20:46:24,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 814491.
+COM46,,2021-10-20 20:46:24,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 509006.
+COM54,,2021-10-20 20:46:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 231988.
+COM48,,2021-10-20 20:46:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 131357.
+COM46,,2021-10-20 20:46:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 761915.
+COM53,,2021-10-20 20:46:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 777808.
+COM47,,2021-10-20 20:46:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 199070.
+COM50,,2021-10-20 20:46:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 340102.
+COM51,,2021-10-20 20:46:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 124265.
+COM47,,2021-10-20 20:46:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 737613.
+COM50,,2021-10-20 20:46:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 046383.
+COM54,,2021-10-20 20:46:33,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 416048.
+COM48,,2021-10-20 20:46:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 988017.
+COM46,,2021-10-20 20:46:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 790864.
+COM51,,2021-10-20 20:46:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 032055.
+COM47,,2021-10-20 20:46:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 256417.
+COM49,,2021-10-20 20:49:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 300279.
+COM39,,2021-10-20 20:49:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 291592.
+COM40,,2021-10-20 20:49:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 628316.
+COM44,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 089084.
+COM42,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 514371.
+COM39,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 350082.
+COM40,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 625114.
+COM44,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 533263.
+COM42,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 734259.
+COM39,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 525103.
+COM40,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 476138.
+COM43,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 055051.
+COM44,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 349260.
+COM42,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 407227.
+COM39,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 938050.
+COM40,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 348137.
+COM43,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 867293.
+COM44,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 055162.
+COM42,,2021-10-20 20:49:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 665522.
+COM43,,2021-10-20 20:49:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 493246.
+COM42,,2021-10-20 20:49:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 635978.
+COM43,,2021-10-20 20:49:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 703917.
+COM43,,2021-10-20 20:49:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 717472.
+COM43,,2021-10-20 20:49:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 000301.
+COM43,,2021-10-20 20:49:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 167381.
+COM43,,2021-10-20 20:49:23,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 489706.
+COM41,,2021-10-20 20:49:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 544770.
+COM41,,2021-10-20 20:49:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 239097.
+COM41,,2021-10-20 20:49:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 226891.
+COM41,,2021-10-20 20:49:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 362299.
+COM41,,2021-10-20 20:49:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 909213.
+COM43,,2021-10-20 21:15:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 620937.
+COM50,,2021-10-20 21:15:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 436106.
+COM44,,2021-10-20 21:16:04,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 126932.
+COM40,,2021-10-20 21:17:28,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 515835.
+COM46,,2021-10-20 21:17:41,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 281574.
+COM39,,2021-10-20 21:17:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 393390.
+COM42,,2021-10-20 21:18:19,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 051048.
+COM52,,2021-10-20 21:18:23,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 341095.
+COM41,,2021-10-20 21:18:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 371257.
+COM49,,2021-10-20 21:18:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 749017.
+COM51,,2021-10-20 21:18:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 994279.
+COM53,,2021-10-20 21:19:09,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 522695.
+COM54,,2021-10-20 21:19:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 637981.
+COM48,,2021-10-20 21:25:04,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 488722.
+COM40,,2021-10-20 21:25:08,87656,Bonjour, de nouveaux documents sont disponibles sur votre Espace Client . BNP Paribas 16Bd des Italiens Paris9 662042449RCSParis
+COM48,,2021-10-20 21:25:13,87656,Rappel: RDV au centre PMI le 21/10/21  11h00 (avec Carnet de sant et Carte Vitale). Si impossibilit contacter le 0156714294. Dpartement du Val de Marne
+COM40,,2021-10-20 21:26:33,247241A14962581C92,BNP ParibasUn message sur l'volution des tarifs au 01/01/2022 vous attend dans votre Espace Client. BNP PARIBAS 16 Bd des Italiens Paris9 662042449RCSParis
+COM39,,2021-10-20 21:31:13,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 439233.
+COM42,,2021-10-20 21:31:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 876509.
+COM54,,2021-10-20 21:31:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 111723.
+COM40,,2021-10-20 21:31:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 196444.
+COM48,,2021-10-20 21:31:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 548387.
+COM44,,2021-10-20 21:32:45,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 645845.
+COM47,,2021-10-20 21:32:45,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 277770.
+COM41,,2021-10-20 21:32:46,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 701054.
+COM42,,2021-10-20 21:32:46,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 133581.
+COM40,,2021-10-20 21:32:46,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 678441.
+COM52,,2021-10-20 21:32:50,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 856973.
+COM48,,2021-10-20 21:32:50,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 474633.
+COM49,,2021-10-20 21:33:19,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 356477.
+COM46,,2021-10-20 21:33:23,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 310817.
+COM43,,2021-10-20 21:33:49,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 616322.
+COM39,,2021-10-20 21:35:01,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 343774.
+COM54,,2021-10-20 21:35:05,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 139601.
+COM51,,2021-10-20 21:35:09,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 340227.
+COM39,,2021-10-20 21:37:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 612032.
+COM43,,2021-10-20 21:37:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 163478.
+COM48,,2021-10-20 21:37:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 950888.
+COM51,,2021-10-20 21:38:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 919020.
+COM45,,2021-10-20 21:38:01,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 428295.
+COM40,,2021-10-20 21:39:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 705374.
+COM46,,2021-10-20 21:39:12,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 277214.
+COM44,,2021-10-20 21:39:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 377312.
+COM44,,2021-10-20 21:39:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 460061.
+COM46,,2021-10-20 21:39:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 773433.
+COM54,,2021-10-20 21:39:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 096097.
+COM49,,2021-10-20 21:39:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 290540.
+COM49,,2021-10-20 21:39:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 169076.
+COM49,,2021-10-20 21:46:19,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 795558.
+COM48,,2021-10-20 21:46:23,33782520858,Suis en cours. Te rappelle vers 14h
+COM43,,2021-10-20 21:46:23,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 587198.
+COM52,,2021-10-20 21:46:23,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 099680.
+COM42,,2021-10-20 21:46:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 677969.
+COM41,,2021-10-20 21:46:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 544435.
+COM53,,2021-10-20 21:46:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 400661.
+COM46,,2021-10-20 21:46:49,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 078374.
+COM47,,2021-10-20 21:47:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 802719.
+COM54,,2021-10-20 21:47:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 346890.
+COM46,,2021-10-20 21:47:23,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 447120.
+COM51,,2021-10-20 21:47:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 631575.
+COM44,,2021-10-20 21:47:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 196765.
+COM50,,2021-10-20 21:47:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 607552.
+COM40,,2021-10-20 21:47:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 268881.
+COM40,,2021-10-20 21:48:09,33698988199,Appel manqu??du +33698988199 le 20/10 ?? 09:15
+COM39,,2021-10-20 21:50:58,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 789588.
+COM45,,2021-10-20 21:54:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 804943.
+COM39,,2021-10-20 21:54:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 159026.
+COM45,,2021-10-20 21:54:09,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 559726.
+COM39,,2021-10-20 21:54:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 412014.
+COM45,,2021-10-20 21:54:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 557889.
+COM39,,2021-10-20 21:54:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 227997.
+COM41,,2021-10-20 21:57:03,CCCE038DC7A039CC22,ile.fr/fr/registration ou appelez le Service Client au 323.
+COM41,,2021-10-20 21:57:12,CCCE038DC7A039CC22,Info Lycamobile : nous vous rappelons qu'il est obligatoire d'enregistrer votre ligne en communiquant vos coordonnes. Pour ce faire, RDV sur www.lycamob
+COM42,,2021-10-20 21:58:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 068232.
+COM50,,2021-10-20 21:59:05,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 420746.
+COM49,,2021-10-20 21:59:05,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 563810.
+COM51,,2021-10-20 21:59:05,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 539675.
+COM54,,2021-10-20 21:59:09,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 316086.
+COM52,,2021-10-20 21:59:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 137689.
+COM43,,2021-10-20 21:59:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 341789.
+COM53,,2021-10-20 21:59:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 033224.
+COM39,,2021-10-20 21:59:31,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 581395.
+COM46,,2021-10-20 21:59:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 285881.
+COM41,,2021-10-20 21:59:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 073191.
+COM45,,2021-10-20 21:59:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 011969.
+COM44,,2021-10-20 21:59:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 681661.
+COM40,,2021-10-20 21:59:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 776951.
+COM42,,2021-10-20 21:59:50,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 099325.
+COM48,,2021-10-20 22:00:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 764652.
+COM39,,2021-10-20 22:06:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 844063.
+COM45,,2021-10-20 22:06:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 922712.
+COM51,,2021-10-20 22:06:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 805919.
+COM39,,2021-10-20 22:06:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 271456.
+COM49,,2021-10-20 22:06:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 756522.
+COM45,,2021-10-20 22:06:31,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 539742.
+COM51,,2021-10-20 22:06:31,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 623013.
+COM49,,2021-10-20 22:06:31,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 828844.
+COM42,,2021-10-20 22:06:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 832567.
+COM42,,2021-10-20 22:06:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 137521.
+COM54,,2021-10-20 22:06:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 054860.
+COM48,,2021-10-20 22:06:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 600555.
+COM54,,2021-10-20 22:06:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 601644.
+COM48,,2021-10-20 22:06:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 053415.
+COM43,,2021-10-20 22:06:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 116491.
+COM47,,2021-10-20 22:06:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 379125.
+COM44,,2021-10-20 22:06:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 252081.
+COM50,,2021-10-20 22:06:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 180565.
+COM53,,2021-10-20 22:06:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 548336.
+COM47,,2021-10-20 22:06:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 950351.
+COM44,,2021-10-20 22:06:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 839852.
+COM46,,2021-10-20 22:07:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 653183.
+COM43,,2021-10-20 22:07:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 176111.
+COM50,,2021-10-20 22:07:04,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 961963.
+COM42,,2021-10-20 22:07:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 839844.
+COM43,,2021-10-20 22:07:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 224929.
+COM54,,2021-10-20 22:07:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 637588.
+COM39,,2021-10-20 22:07:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 923046.
+COM44,,2021-10-20 22:07:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 496530.
+COM45,,2021-10-20 22:07:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 417251.
+COM47,,2021-10-20 22:07:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 777653.
+COM50,,2021-10-20 22:07:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 381910.
+COM51,,2021-10-20 22:07:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 234938.
+COM49,,2021-10-20 22:07:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 417865.
+COM41,,2021-10-20 22:08:01,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 445855.
+COM53,,2021-10-20 22:09:03,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 768155.
+COM46,,2021-10-20 22:09:24,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 076071.
+COM48,,2021-10-20 22:09:24,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 359017.
+COM42,,2021-10-20 22:18:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 492602.
+COM48,,2021-10-20 22:18:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 168071.
+COM52,,2021-10-20 22:19:02,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 947173.
+COM41,,2021-10-20 22:19:02,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 610141.
+COM42,,2021-10-20 22:19:02,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 198081.
+COM42,,2021-10-20 22:19:02,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 132178.
+COM52,,2021-10-20 22:19:10,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 077354.
+COM40,,2021-10-20 22:19:23,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 189492.
+COM44,,2021-10-20 22:19:23,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 825945.
+COM53,,2021-10-20 22:19:24,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 860926.
+COM52,,2021-10-20 22:20:03,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 246027.
+COM48,,2021-10-20 22:20:03,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 113879.
+COM52,,2021-10-20 22:20:03,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 570923.
+COM48,,2021-10-20 22:20:03,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 573190.
+COM50,,2021-10-20 22:20:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 114170.
+COM45,,2021-10-20 22:20:24,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 926311.
+COM45,,2021-10-20 22:20:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 211247.
+COM50,,2021-10-20 22:20:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 487354.
+COM52,,2021-10-20 22:20:54,33184143016,Appel manqu??du +33184143016 le 20/10 ?? 09:52
+COM41,,2021-10-20 22:21:27,33699373146,Appel manqu??du +33699373146 le 20/10 ?? 12:47
+COM46,,2021-10-20 22:21:53,33374663049,Appel manqu??du +33374663049 le 20/10 ?? 10:24
+COM46,,2021-10-20 22:23:51,33374663049,Appel manqu??du +33374663049 le 20/10 ?? 12:18
+COM49,,2021-10-20 22:24:46,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 520600.
+COM44,,2021-10-20 22:24:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 138896.
+COM51,,2021-10-20 22:24:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 084335.
+COM49,,2021-10-20 22:24:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 478672.
+COM51,,2021-10-20 22:24:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 695248.
+COM48,,2021-10-20 22:24:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 238313.
+COM48,,2021-10-20 22:24:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 488068.
+COM46,,2021-10-20 22:24:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 516345.
+COM43,,2021-10-20 22:24:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 141565.
+COM46,,2021-10-20 22:24:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 583918.
+COM43,,2021-10-20 22:24:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 185825.
+COM46,,2021-10-20 22:24:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 457252.
+COM43,,2021-10-20 22:24:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 323911.
+COM43,,2021-10-20 22:24:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 116959.
+COM47,,2021-10-20 22:24:55,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 454045.
+COM47,,2021-10-20 22:24:55,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 326960.
+COM44,,2021-10-20 22:24:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 045488.
+COM49,,2021-10-20 22:24:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 625724.
+COM44,,2021-10-20 22:24:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 579034.
+COM49,,2021-10-20 22:24:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 543010.
+COM51,,2021-10-20 22:24:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 724328.
+COM51,,2021-10-20 22:24:57,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 214388.
+COM53,,2021-10-20 22:25:12,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 349858.
+COM40,,2021-10-20 22:25:12,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 118920.
+COM53,,2021-10-20 22:25:12,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 420481.
+COM40,,2021-10-20 22:25:12,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 166870.
+COM54,,2021-10-20 22:25:16,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 931204.
+COM52,,2021-10-20 22:25:16,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 946635.
+COM54,,2021-10-20 22:25:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 617912.
+COM52,,2021-10-20 22:25:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 964622.
+COM42,,2021-10-20 22:25:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 557284.
+COM42,,2021-10-20 22:25:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 109935.
+COM46,,2021-10-20 22:25:51,33374663049,Appel manqu??du +33374663049 le 20/10 ?? 10:55
+COM48,,2021-10-20 22:27:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 447053.
+COM52,,2021-10-20 22:27:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 627058.
+COM46,,2021-10-20 22:27:07,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 100468.
+COM40,,2021-10-20 22:27:11,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 869932.
+COM41,,2021-10-20 22:27:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 927016.
+COM41,,2021-10-20 22:27:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 962809.
+COM41,,2021-10-20 22:27:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 463915.
+COM44,,2021-10-20 22:29:09,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 942581.
+COM51,,2021-10-20 22:29:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 666605.
+COM53,,2021-10-20 22:29:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 006550.
+COM50,,2021-10-20 22:33:02,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 510738.
+COM49,,2021-10-20 22:33:06,33768099217,https://youtu.be/izC0mjeDw-Y
+COM49,,2021-10-20 22:33:15,33768099217,Jsui a part Dieu mon c?ur trop rapide jtm Apl apr��s 
+COM54,,2021-10-20 22:33:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 975257.
+COM40,,2021-10-20 22:34:22,33970581876,Appel manqu??du +33970581876 le 20/10 ?? 15:42
+COM42,,2021-10-20 22:35:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 722346.
+COM45,,2021-10-20 22:35:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 316614.
+COM53,,2021-10-20 22:35:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 208082.
+COM41,,2021-10-20 22:35:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 421455.
+COM51,,2021-10-20 22:35:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 746099.
+COM54,,2021-10-20 22:36:03,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 130042.
+COM50,,2021-10-20 22:36:03,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 580141.
+COM52,,2021-10-20 22:36:03,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 933474.
+COM48,,2021-10-20 22:36:04,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 021352.
+COM52,,2021-10-20 22:36:04,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 724971.
+COM49,,2021-10-20 22:36:15,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 557190.
+COM46,,2021-10-20 22:36:37,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 876194.
+COM44,,2021-10-20 22:37:07,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 171983.
+COM47,,2021-10-20 22:37:15,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 003320.
+COM40,,2021-10-20 22:47:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 438776.
+COM50,,2021-10-20 22:47:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 895509.
+COM46,,2021-10-20 22:47:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 284515.
+COM39,,2021-10-20 22:47:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 172656.
+COM52,,2021-10-20 22:47:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 656229.
+COM48,,2021-10-20 22:47:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 505517.
+COM43,,2021-10-20 22:47:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 815833.
+COM45,,2021-10-20 22:47:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 340306.
+COM53,,2021-10-20 22:47:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 786613.
+COM49,,2021-10-20 22:47:55,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 479403.
+COM54,,2021-10-20 22:47:55,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 424335.
+COM44,,2021-10-20 22:48:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 536438.
+COM42,,2021-10-20 22:48:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 966262.
+COM47,,2021-10-20 22:48:42,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 719705.
+COM41,,2021-10-20 22:49:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 175541.
+COM41,,2021-10-20 22:49:38,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 401279.
+COM44,,2021-10-20 22:52:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 012239.
+COM49,,2021-10-20 22:53:03,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 436321.
+COM43,,2021-10-20 22:53:07,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 160765.
+COM46,,2021-10-20 22:53:28,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 910763.
+COM53,,2021-10-20 22:53:32,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 074152.
+COM51,,2021-10-20 22:53:32,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 300197.
+COM45,,2021-10-20 22:53:32,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 585685.
+COM47,,2021-10-20 22:53:32,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 306058.
+COM40,,2021-10-20 22:53:32,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 317891.
+COM50,,2021-10-20 22:53:36,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 441473.
+COM54,,2021-10-20 22:53:36,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 060457.
+COM52,,2021-10-20 22:53:36,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 232056.
+COM39,,2021-10-20 22:53:36,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 222189.
+COM42,,2021-10-20 22:53:49,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 187617.
+COM48,,2021-10-20 22:53:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 399257.
+COM39,,2021-10-20 22:53:54,33367470827,Appel manqu??du +33367470827 le 20/10 ?? 15:52
+COM41,,2021-10-20 22:55:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 704623.
+COM47,,2021-10-20 22:57:14,33782697444,Salut, quels sont vos tarifs ? 
+COM48,,2021-10-20 22:57:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 849198.
+COM52,,2021-10-20 22:57:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 294920.
+COM50,,2021-10-20 22:57:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 829592.
+COM40,,2021-10-20 22:57:48,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 427982.
+COM43,,2021-10-20 22:57:48,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 548644.
+COM42,,2021-10-20 22:57:48,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 663135.
+COM44,,2021-10-20 22:57:48,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 585430.
+COM51,,2021-10-20 22:57:48,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 779306.
+COM47,,2021-10-20 22:57:48,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 237984.
+COM49,,2021-10-20 22:57:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 609466.
+COM54,,2021-10-20 22:57:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 696578.
+COM39,,2021-10-20 22:57:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 448323.
+COM39,,2021-10-20 22:58:10,33374663049,Appel manqu??du +33374663049 le 20/10 ?? 12:36
+COM41,,2021-10-20 22:58:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 831091.
+COM40,,2021-10-20 22:58:31,CCCE038DC7A039CC22,ile.fr/fr/registration ou appelez le Service Client au 323.
+COM42,,2021-10-20 22:58:48,33310003361,Appel manqu??du +33310003361 le 20/10 ?? 16:35
+COM39,,2021-10-20 22:58:53,33374663049,Appel manqu??du +33374663049 le 20/10 ?? 10:31
+COM53,,2021-10-20 22:58:55,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 695678.
+COM46,,2021-10-20 22:59:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 241420.
+COM40,,2021-10-20 22:59:05,CCCE038DC7A039CC22,Info Lycamobile : nous vous rappelons qu'il est obligatoire d'enregistrer votre ligne en communiquant vos coordonnes. Pour ce faire, RDV sur www.lycamob
+COM45,,2021-10-20 22:59:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 588214.
+COM48,,2021-10-20 23:02:59,33755505223,Souleyman a t absent(e) de l'tablissement le 20/10 de 08h00  10h00. Merci de nous contacter au plus vite afin de rgulariser cette situation.
+COM48,,2021-10-20 23:05:42,33648439072,Appel manqu??du +33648439072 le 20/10 ?? 09:20
+COM54,,2021-10-20 23:05:59,33188900897,Appel manqu??du +33188900897 le 20/10 ?? 16:37
+COM49,,2021-10-20 23:07:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 459267.
+COM41,,2021-10-20 23:07:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 922192.
+COM52,,2021-10-20 23:07:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 843435.
+COM52,,2021-10-20 23:07:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 772655.
+COM51,,2021-10-20 23:07:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 582134.
+COM53,,2021-10-20 23:07:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 183482.
+COM42,,2021-10-20 23:07:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 333382.
+COM40,,2021-10-20 23:07:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 060062.
+COM41,,2021-10-20 23:07:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 993601.
+COM42,,2021-10-20 23:07:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 089394.
+COM53,,2021-10-20 23:07:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 515581.
+COM39,,2021-10-20 23:07:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 916995.
+COM50,,2021-10-20 23:07:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 094289.
+COM54,,2021-10-20 23:07:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 878663.
+COM39,,2021-10-20 23:07:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 611935.
+COM54,,2021-10-20 23:07:51,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 738306.
+COM47,,2021-10-20 23:08:11,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 921139.
+COM39,,2021-10-20 23:08:17,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 218121.
+COM48,,2021-10-20 23:08:41,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 555787.
+COM42,,2021-10-20 23:08:55,DC2FCD8F697B3C,URGENT: Vous allez perdre vos droits CPF. Consultez votre budget et rclamez votre formation 100% prise en charge : https://u.nu/RHPs5STOP http://u.nu/PX30V
+COM46,,2021-10-20 23:09:15,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 729970.
+COM41,,2021-10-20 23:15:51,33613748540,Votre livraison est retenue dans notre centre de distribution. Veuillez suivre les instructions: http://qcbw.me/95e5GB
+COM40,,2021-10-20 23:17:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 708600.
+COM53,,2021-10-20 23:17:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 711110.
+COM44,,2021-10-20 23:19:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 585776.
+COM43,,2021-10-20 23:20:07,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 489268.
+COM54,,2021-10-20 23:26:03,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 245321.
+COM49,,2021-10-20 23:26:33,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 016338.
+COM53,,2021-10-20 23:41:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 678277.
+COM44,,2021-10-20 23:45:15,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 820368.
+COM46,,2021-10-20 23:45:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 831832.
+COM43,,2021-10-20 23:45:58,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 219860.
+COM54,,2021-10-20 23:45:58,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 384998.
+COM52,,2021-10-20 23:46:02,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 908253.
+COM41,,2021-10-20 23:46:02,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 190995.
+COM43,,2021-10-20 23:46:07,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 669966.
+COM42,,2021-10-20 23:47:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 828996.
+COM40,,2021-10-20 23:47:39,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 660112.
+COM51,,2021-10-20 23:47:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 900060.
+COM43,,2021-10-20 23:47:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 997456.
+COM41,,2021-10-20 23:48:01,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 991523.
+COM53,,2021-10-20 23:48:13,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 151464.
+COM39,,2021-10-20 23:48:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 121768.
+COM41,,2021-10-20 23:58:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 059698.
+COM44,,2021-10-20 23:58:36,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 396423.
+COM49,,2021-10-20 23:58:41,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 033573.
+COM41,,2021-10-20 23:58:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 043699.
+COM43,,2021-10-20 23:59:27,33186615516,Appel manqu??du +33186615516 le 20/10 ?? 15:54
+COM43,,2021-10-21 00:00:01,33374663049,Appel manqu??du +33374663049 le 20/10 ?? 12:22
+COM43,,2021-10-21 00:00:10,33184143016,Appel manqu??du +33184143016 le 20/10 ?? 17:57
+COM52,,2021-10-21 00:00:13,33189007248,Appel manqu??du +33189007248 le 20/10 ?? 11:13
+COM43,,2021-10-21 00:01:26,33184144106,Appel manqu??du +33184144106 le 20/10 ?? 16:55
+COM41,,2021-10-21 00:22:25,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 054944.
+COM46,,2021-10-21 00:33:36,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 974123.
+COM50,,2021-10-21 00:33:49,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 104353.
+COM51,,2021-10-21 00:33:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 634842.
+COM40,,2021-10-21 00:33:57,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 198332.
+COM52,,2021-10-21 00:34:01,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 191198.
+COM48,,2021-10-21 00:34:01,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 522563.
+COM43,,2021-10-21 00:34:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 866839.
+COM42,,2021-10-21 00:34:12,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 293811.
+COM42,,2021-10-21 00:34:21,33656750395,Mamadou BARRY BAH a des remarques dans le carnet numrique de Pronote qui attendent votre signature. Cela devient urgent.La Direction du collge Victoir
+COM44,,2021-10-21 00:34:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 474521.
+COM49,,2021-10-21 00:34:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 886566.
+COM41,,2021-10-21 00:34:29,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 942107.
+COM42,,2021-10-21 00:34:29,33656750395,e Daubi.
+COM39,,2021-10-21 00:34:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 687116.
+COM53,,2021-10-21 00:35:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 735510.
+COM43,,2021-10-21 00:37:03,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 111146.
+COM51,,2021-10-21 00:37:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 566859.
+COM52,,2021-10-21 00:37:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 199369.
+COM46,,2021-10-21 00:37:07,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 029917.
+COM41,,2021-10-21 00:37:10,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 764715.
+COM39,,2021-10-21 00:37:10,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 123779.
+COM53,,2021-10-21 00:37:10,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 080162.
+COM40,,2021-10-21 00:37:11,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 628397.
+COM50,,2021-10-21 00:37:11,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 147611.
+COM48,,2021-10-21 00:37:15,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 469920.
+COM42,,2021-10-21 00:37:35,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 668963.
+COM44,,2021-10-21 00:37:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 254097.
+COM49,,2021-10-21 00:37:57,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 757883.
+COM46,,2021-10-21 00:43:45,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 189715.
+COM41,,2021-10-21 00:44:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 206510.
+COM49,,2021-10-21 00:44:10,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 284681.
+COM50,,2021-10-21 00:44:19,33974968571,Appel manqu??du +33974968571 le 20/10 ?? 14:04
+COM52,,2021-10-21 00:44:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 524591.
+COM47,,2021-10-21 00:44:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 382127.
+COM51,,2021-10-21 00:44:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 875063.
+COM46,,2021-10-21 00:44:44,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 685669.
+COM50,,2021-10-21 00:44:45,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 855542.
+COM40,,2021-10-21 00:45:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 617007.
+COM41,,2021-10-21 00:45:48,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 771829.
+COM49,,2021-10-21 00:45:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 330579.
+COM44,,2021-10-21 00:45:55,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 479397.
+COM42,,2021-10-21 00:45:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 291313.
+COM53,,2021-10-21 00:46:04,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 018544.
+COM54,,2021-10-21 00:46:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 644106.
+COM48,,2021-10-21 00:46:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 415698.
+COM46,,2021-10-21 00:47:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 912791.
+COM39,,2021-10-21 00:48:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 092235.
+COM43,,2021-10-21 00:48:31,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 583909.
+COM39,,2021-10-21 00:51:54,3535,1 Nouveau message(s) vocal reC_ Pour vC)fier votre messagerie vocale,veuillez appeler 121
+COM51,,2021-10-21 00:52:15,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 787461.
+COM49,,2021-10-21 00:52:15,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 324739.
+COM48,,2021-10-21 00:52:19,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 426901.
+COM44,,2021-10-21 00:52:19,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 147661.
+COM39,,2021-10-21 00:52:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 752517.
+COM46,,2021-10-21 00:52:24,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 500671.
+COM41,,2021-10-21 00:52:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 135882.
+COM52,,2021-10-21 00:52:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 193384.
+COM54,,2021-10-21 00:52:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 858425.
+COM42,,2021-10-21 00:52:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 301884.
+COM43,,2021-10-21 00:52:57,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 317843.
+COM47,,2021-10-21 00:53:01,33186560097,Appel manqu??du +33186560097 le 20/10 ?? 16:34
+COM44,,2021-10-21 00:53:27,33428709622,Appel manqu??du +33428709622 le 20/10 ?? 15:59
+COM49,,2021-10-21 00:53:48,33974961892,Appel manqu??du +33974961892 le 20/10 ?? 12:32
+COM40,,2021-10-21 00:55:32,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 310948.
+COM44,,2021-10-21 18:44:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 526824.
+COM40,,2021-10-21 18:44:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 526957.
+COM43,,2021-10-21 18:44:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 922620.
+COM47,,2021-10-21 18:44:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 973000.
+COM42,,2021-10-21 18:44:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 387346.
+COM51,,2021-10-21 18:44:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 930984.
+COM49,,2021-10-21 18:44:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 834694.
+COM44,,2021-10-21 18:44:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 604676.
+COM39,,2021-10-21 18:44:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 286439.
+COM54,,2021-10-21 18:44:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 735983.
+COM43,,2021-10-21 18:44:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 205604.
+COM49,,2021-10-21 18:44:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 220912.
+COM39,,2021-10-21 18:44:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 268076.
+COM54,,2021-10-21 18:44:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 196160.
+COM45,,2021-10-21 18:44:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 999790.
+COM45,,2021-10-21 18:44:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 919825.
+COM45,,2021-10-21 18:44:53,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 888309.
+COM45,,2021-10-21 18:44:54,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 307593.
+COM45,,2021-10-21 18:44:54,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 640065.
+COM45,,2021-10-21 18:44:54,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 756750.
+COM40,,2021-10-21 18:45:01,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 528851.
+COM47,,2021-10-21 18:45:01,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 597289.
+COM51,,2021-10-21 18:45:01,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 386446.
+COM47,,2021-10-21 18:45:10,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 481192.
+COM46,,2021-10-21 18:45:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 584679.
+COM41,,2021-10-21 18:45:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 252952.
+COM52,,2021-10-21 18:45:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 828243.
+COM50,,2021-10-21 18:45:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 511220.
+COM53,,2021-10-21 18:45:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 279154.
+COM53,,2021-10-21 18:45:18,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 644613.
+COM45,,2021-10-21 18:45:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 817340.
+COM45,,2021-10-21 18:45:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 849660.
+COM48,,2021-10-21 18:45:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 177787.
+COM48,,2021-10-21 18:45:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 215393.
+COM53,,2021-10-21 18:45:27,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 151976.
+COM45,,2021-10-21 18:45:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 833206.
+COM40,,2021-10-21 18:53:15,33769078060,����1
+COM44,,2021-10-21 18:53:24,3535,1 Nouveau message(s) vocal reC_ Pour vC)fier votre messagerie vocale,veuillez appeler 121
+COM42,,2021-10-21 18:54:23,3C0A45A543E3BA25,Jusqu'au 31/10, 25L de carburant achets = 5E de remise immdiate en Hypermarch (ds 30E d'achat dans les 48h). J'conomise : txly.co/j7FnVX Stop 36001
+COM44,,2021-10-21 18:54:32,33184145072,Appel manqu??du +33184145072 le 21/10 ?? 09:42
+COM45,,2021-10-21 19:32:58,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 398418.
+COM52,,2021-10-21 19:33:02,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 968397.
+COM45,,2021-10-21 19:33:07,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 253829.
+COM45,,2021-10-21 19:33:07,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 175346.
+COM52,,2021-10-21 19:33:11,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 773219.
+COM53,,2021-10-21 19:35:45,33957229125,Appel manqu??du +33957229125 le 21/10 ?? 11:51
+COM43,,2021-10-21 19:36:30,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 351201.
+COM41,,2021-10-21 19:36:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 501238.
+COM47,,2021-10-21 19:36:34,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 730074.
+COM50,,2021-10-21 19:36:38,33772078791,C fury Passe en boutique...Je me deplace 
+COM49,,2021-10-21 19:36:52,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 305886.
+COM54,,2021-10-21 19:36:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 056139.
+COM51,,2021-10-21 19:37:48,33695595431,Appel manqu??du +33695595431 le 21/10 ?? 10:45
+COM47,,2021-10-21 19:45:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 320810.
+COM47,,2021-10-21 19:45:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 852151.
+COM47,,2021-10-21 19:45:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 375485.
+COM48,,2021-10-21 19:50:59,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 439350.
+COM48,,2021-10-21 19:51:00,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 345895.
+COM40,33605627198,2021-10-21 19:52:27,3535,1 Nouveau message(s) vocal reC_ Pour vC)fier votre messagerie vocale,veuillez appeler 121
+COM42,33758076643,2021-10-21 19:52:35,3C0A45A543E3BA25,Jusqu'au 31/10, 25L de carburant achets = 5E de remise immdiate en Hypermarch (ds 30E d'achat dans les 48h). J'conomise : txly.co/FzY6VX Stop 36001
+COM43,,2021-10-21 19:53:15,33757967013,DOCTOLIBRDV jeu 21/10  14h30Dr. Benramdane pour Dr BOTTALe Blanc-MesnilInfos  lire et gestion du RDV, cliquez ici: a.doctolib.fr/f8L9fKEkrNE PAS RPONDRE
+COM42,,2021-10-21 19:54:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 761506.
+COM53,,2021-10-21 19:54:52,33680894700,Bonjour Roxana comment allez vous moi c'est Thierry je viens souven
+COM53,,2021-10-21 19:54:52,33680894700,t travailler sur Chalon j ai trouv�� vos photos tr��s belles et je ne
+COM53,,2021-10-21 19:55:01,33680894700, vous cache pas que j aimerais bien vous rencontrer voir si entre n
+COM53,,2021-10-21 19:55:02,33680894700,ous le feeling passerait �� bient?t j esp��re 
+COM52,,2021-10-21 19:55:04,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 778544.
+COM47,,2021-10-21 19:55:04,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 761995.
+COM54,,2021-10-21 19:55:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 168347.
+COM39,,2021-10-21 19:55:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 046768.
+COM44,,2021-10-21 19:55:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 605178.
+COM54,,2021-10-21 19:55:08,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 927720.
+COM52,,2021-10-21 19:55:13,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 683253.
+COM49,,2021-10-21 19:55:26,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 582718.
+COM53,33758210744,2021-10-21 19:55:37,33664790094,Bonjour. Ayant vu votre annonce sur "wannonce ", je me permets de vous demander si vous aviez besoin de renouveler vos photos en vous proposant mes servi
+COM53,33758210744,2021-10-21 19:55:46,33664790094,ces. Je possde mon site photographique sur internet. Discrtion assure. Je prcise que je ne fais que de la photo et rien d'autre. Seriez-vous intress
+COM53,33758210744,2021-10-21 19:55:46,33664790094,e ?. Olivier.
+COM50,,2021-10-21 19:56:56,87656,Relev La Banque Postale Le 21/10/2021  01h36, CCP 5313***A033 Solde +258.41E -19.99E -85E -31E +200E
+COM53,,2021-10-21 19:57:21,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 525139.
+COM53,,2021-10-21 19:57:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 632909.
+COM50,,2021-10-21 19:57:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 428607.
+COM50,,2021-10-21 19:57:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 939137.
+COM50,,2021-10-21 19:57:31,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 435981.
+COM53,33751162819,2021-10-21 19:58:16,7DAE4BC27B7A7C56,WU: votre transfert d'argent a bien t rceptionn par FATIMA TIFRAOUI. Merci
+COM53,33751162819,2021-10-21 19:58:25,33974963756,Appel manqu??du +33974963756 le 21/10 ?? 11:24
+COM50,,2021-10-21 19:59:10,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 280183.
+COM47,33751486417,2021-10-21 19:59:19,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 436818.
+COM40,33605795113,2021-10-21 20:00:47,33674537381,Bnsr comment tu va 
+COM45,,2021-10-21 20:01:10,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 280634.
+COM53,33751110611,2021-10-21 20:02:14,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 461378.
+COM43,,2021-10-21 20:02:54,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 196924.
+COM43,,2021-10-21 20:02:54,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 049248.
+COM43,,2021-10-21 20:02:54,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 940013.
+COM40,,2021-10-21 20:03:04,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 413921.
+COM54,33751262950,2021-10-21 20:03:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 155083.
+COM54,33751262950,2021-10-21 20:03:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 707159.
+COM54,33751262950,2021-10-21 20:03:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 516800.
+COM42,33605652527,2021-10-21 20:03:07,33644631261,IQERA, payer votre dette BOUYGUES TELECOM sur notre portail scuris https://secure-iqera.ma-creance.fr/go?u=559439884&p=4235, ou au 01.87.52.10.15 ident
+COM42,33605652527,2021-10-21 20:03:07,33644631261,ifiant 559439884, code 4235
+COM51,33753121059,2021-10-21 20:05:20,35AB2FD3F23C1D,Ibrahima Sory est not absent(e) le 21/10/21Merci de contacter le plus rapidement possible la vie scolaire au 0478722172
+COM41,33605645312,2021-10-21 20:05:20,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 134606.
+COM45,,2021-10-21 20:05:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 749198.
+COM45,,2021-10-21 20:05:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 360385.
+COM45,,2021-10-21 20:06:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 413798.
+COM45,,2021-10-21 20:06:06,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 216022.
+COM43,,2021-10-21 20:07:43,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 271746.
+COM41,33605753590,2021-10-21 20:09:50,87656,Relev La Banque Postale Le 21/10/2021  01h39, CCP 6287***N020 Solde -343.02E -42.42E -0.26E -26.77E -10E Aucun crdit
+COM43,,2021-10-21 20:13:05,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 357043.
+COM53,,2021-10-21 20:15:00,33755505020,Yanis a t absent(e) de l'tablissement le 21/10 de 08h00  08h55. Merci de nous contacter au plus vite afin de rgulariser cette situation.
+COM50,,2021-10-21 20:15:22,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 592668.
+COM50,,2021-10-21 20:15:31,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 440464.
+COM50,,2021-10-21 20:15:40,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 079840.
+COM50,,2021-10-21 20:15:40,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 221097.
+COM47,,2021-10-21 20:16:40,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 072739.
+COM47,,2021-10-21 20:16:40,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 165159.
+COM47,,2021-10-21 20:16:40,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 058290.
+COM51,,2021-10-21 20:16:43,87656,Relev La Banque Postale Le 21/10/2021  01h30, CCP 2057***T022 Solde +913.53E -1.28E -100E -40E +13.12E
+COM48,33753044255,2021-10-21 20:19:47,33465630105,Appel manqu??du +33465630105 le 21/10 ?? 13:36
+COM53,,2021-10-21 20:21:47,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 257584.
+COM53,33605753590,2021-10-21 20:21:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 985394.
+COM53,33605753590,2021-10-21 20:21:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 985394.
+COM53,33605753590,2021-10-21 20:21:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 985394.
+COM53,33605753590,2021-10-21 20:21:56,8C2A4B95C9284A44B2,Herms RDV : le code pour valider votre demande de rendez-vous est le 985391.

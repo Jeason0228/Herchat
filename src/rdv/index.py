@@ -103,8 +103,11 @@ def count():
 @app.route("/send")
 def send():
     all_user = get_all_users(person_page)
-    send_request(person_db, all_user)
-    return str(date.today()) + " 总数：" + str(len(all_user))
+    x = threading.Thread(target=send_request, args=(person_db, all_user))
+    x.start()
+    x.join()
+    # send_request(person_db, all_user)
+    return "running..."
 
 @app.route("/test")
 def test():
