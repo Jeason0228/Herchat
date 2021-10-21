@@ -41,20 +41,20 @@ def send_request(person_db, person_list):
     global TOTAL_COUNT
     rdv_page = person_db.rdv
 
-    all_rdv_object = {
-        "date": datetime.now(),
-        "prefer": "faubourg",
-        "rdv_list": []
-    }
-    all_rdv = rdv_page.insert_one(all_rdv_object)
+    # all_rdv_object = {
+    #     "date": datetime.now(),
+    #     "prefer": "faubourg",
+    #     "rdv_list": []
+    # }
+    # all_rdv = rdv_page.insert_one(all_rdv_object)
 
     rdv_list = []
     for person in person_list:
         rdv = person.copy()
         _id = rdv.pop("_id")
-        rdv["prefer"] = all_rdv_object["prefer"]
         rdv["date"] = datetime.now()
         rdv["phone_number"] = "33"+ str(person["phone_number"])
+        rdv["prefer"] = "faubourg"
         print(rdv)
         redirct_url = send_rdv_infos(rdv)
         rdv["url"] = redirct_url
@@ -65,8 +65,8 @@ def send_request(person_db, person_list):
             rdv["status"] = False
             print("rdv request sent failed")
         rdv_list.append(rdv)
-    rdv_page.update({{'_id': all_rdv.inserted_id}}, {"$push": {"rdv_list": rdv}})
-    all_rdv_object["rdv_list"] = rdv_list
+        rdv_page.insert_one(rdv)
+    # all_rdv_object["rdv_list"] = rdv_list
 
 
 def send_sms(rdv_page, phone_number):
@@ -74,17 +74,17 @@ def send_sms(rdv_page, phone_number):
     end = datetime.combine(date.today(), datetime.max.time())
     # Make a query to the specific DB and Collection
     todey_rdv = rdv_page.find_one({"date": {"$lt": end, "$gte": start}})
-    rdv_list = todey_rdv["rdv_list"]
+    # rdv_list = todey_rdv["rdv_list"]
     tried =0
     # while True:
     # print("waiting for sms...")
-    new_rdv = rdv_page.find_one({"rdv_list": {"$elemMatch": {"phone_number": str(phone_number), "status": True, "have_code": True}}})
-    person = new_rdv["rdv_list"][0]
-    code = person.get("code", None)
-    redirct_url = person.get("redirct_url", None)
+    new_rdv = rdv_page.find_one({"phone_number": str(phone_number), "status": True, "have_code": True})
+    # person = new_rdv["rdv_list"][0]
+    code = new_rdv.get("code", None)
+    redirct_url = new_rdv.get("redirct_url", None)
     if code is not None:
         if send_sms_code(redirct_url, code):
-            print("code sent")
+            print("sms code sent")
     else:
         tried += 1
         print("retring...")

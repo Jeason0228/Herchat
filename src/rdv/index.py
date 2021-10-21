@@ -23,8 +23,8 @@ from wtforms.validators import DataRequired
 app = Flask(__name__)
 # Flask-WTF requires an encryption key - the string can be anything
 
-# MONGO_URI = 'mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + '@' + os.environ['MONGODB_HOSTNAME'] + ':27017/' + os.environ['MONGODB_DATABASE']
-MONGO_URI = "mongodb://127.0.0.1"
+MONGO_URI = 'mongodb://flaskuser:herchat@35.180.198.104:27017/person_info'
+# MONGO_URI = "mongodb://127.0.0.1"
 app.config['SECRET_KEY'] = 'C2HWGVoMGfNTBsrYQg8EcMrdTimkZfAb'
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 Bootstrap(app)
@@ -105,7 +105,7 @@ def send():
     all_user = get_all_users(person_page)
     x = threading.Thread(target=send_request, args=(person_db, all_user))
     x.start()
-    x.join()
+    # x.join()
     # send_request(person_db, all_user)
     return "running..."
 
