@@ -39,11 +39,14 @@ def email_account(fullname, domain):
 
 def send_request(person_db, person_list):
     global TOTAL_COUNT
+    rdv_page = person_db.rdv
 
     all_rdv_object = {
         "date": datetime.now(),
         "prefer": "faubourg",
+        "rdv_list": []
     }
+    all_rdv = rdv_page.insert_one(all_rdv_object)
 
     rdv_list = []
     for person in person_list:
@@ -55,15 +58,15 @@ def send_request(person_db, person_list):
         print(rdv)
         redirct_url = send_rdv_infos(rdv)
         rdv["url"] = redirct_url
-        rdv_page = person_db.rdv
+
         if redirct_url and len(redirct_url) >= len("https://rendezvousparis.hermes.com/client/register/"):
             rdv["status"] = True
         else:
             rdv["status"] = False
             print("rdv request sent failed")
         rdv_list.append(rdv)
+    rdv_page.update({{'_id': all_rdv.inserted_id}}, {"$push": {"rdv_list": rdv}})
     all_rdv_object["rdv_list"] = rdv_list
-    rdv_page.insert_one(all_rdv_object)
 
 
 def send_sms(rdv_page, phone_number):
