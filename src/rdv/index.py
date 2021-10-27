@@ -3,6 +3,7 @@ from flask import render_template, redirect, request
 from pymongo import MongoClient
 from datetime import datetime, date
 from flask import jsonify
+from multiprocessing import Pool
 
 import os
 import json
@@ -23,7 +24,7 @@ from wtforms.validators import DataRequired
 app = Flask(__name__)
 # Flask-WTF requires an encryption key - the string can be anything
 
-MONGO_URI = 'mongodb://flaskuser:herchat@35.180.198.104:27017/person_info'
+
 # MONGO_URI = "mongodb://127.0.0.1"
 app.config['SECRET_KEY'] = 'C2HWGVoMGfNTBsrYQg8EcMrdTimkZfAb'
 app.config['TEMPLATES_AUTO_RELOAD'] = True
@@ -31,11 +32,6 @@ Bootstrap(app)
 SUBMITTED = False
 SUBMITTED_DATE = None
 
-mongo_client = MongoClient(MONGO_URI)
-
-person_db = mongo_client.person_info
-person_page= person_db.person
-rdv_page = person_db.rdv
 
 class NameForm(FlaskForm):
     domain = StringField('域名', validators=[DataRequired()])
@@ -103,17 +99,18 @@ def count():
 @app.route("/send")
 def send():
     all_user = get_all_users(person_page)
-    x = threading.Thread(target=send_request, args=(person_db, all_user))
-    x.start()
+    with Pool(16) as p:
+        p.map(send_request, all_user)
+    # x.start()
     # x.join()
     # send_request(person_db, all_user)
     return "running..."
 
 @app.route("/test")
 def test():
-    rdv_object = rdv_page.find_one({"rdv_list": {"$elemMatch": {"phone_number": "33769142022"}}})
-    # send_request(person_db, all_user)
-    print(rdv_object)
+    # rdv_object = rdv_page.find_one({"rdv_list": {"$elemMatch": {"phone_number": "33769142022"}}})
+    send_sms(rdv_page, "33758145465")
+    # print(rdv_object)
     return "dict(rdv_object)"
 
 @app.route("/sms_input/<telephone_num>/<sms_text>/<date>/<sms_port>/", methods=['GET'])
