@@ -1,8 +1,7 @@
-from utils import base_headers
-from sms_code import send_sms_code
+from libs.utils import base_headers
+
 import requests
-from recaptcha import g_response
-from webdriver_manager.chrome import ChromeDriverManager
+
 import pandas as pd
 
 def parse_excel(file):
@@ -12,7 +11,7 @@ def parse_excel(file):
         person_list.append(row)
     return person_list
 
-def detect(url, p):
+def detect_ok(url, p):
 
     rdv_response = requests.get(
             url,
@@ -23,10 +22,7 @@ def detect(url, p):
                 
             }
         )
-    if "we are extremely sorry that we were not able to fulfill your request this time" not in rdv_response.text:
+    # print("Last name" in rdv_response.text)
+    
+    if "we are extremely sorry that we were not able to fulfill your request this time" not in rdv_response.text and "Last name" not in rdv_response.text:
         print(p)
-
-plist = parse_excel("/Users/PENGHanyuan/Downloads/person_2.xlsx")
-for p in plist:
-    url = plist[2]["url"].replace("/register/", "/")
-    detect(url, p)

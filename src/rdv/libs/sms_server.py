@@ -87,6 +87,20 @@ if __name__ == '__main__':
         msg = urllib.parse.quote_plus(line_array[4].strip())
         url = f"http://localhost:5000/sms_input/{phone_number}/{msg}/{date_time}/{port}"
         requests.get(url)
+    
+    def ok_callback():
+        print("New sms")
+        with open('/Users/PENGHanyuan/Documents/Programs/Herchat/Herchat/src/rdv/assects/短信接收记录.txt', 'rb') as f:
+            try:  # catch OSError in case of a one line file 
+                f.seek(-2, os.SEEK_END)
+                while f.read(1) != b'\n':
+                    f.seek(-2, os.SEEK_CUR)
+            except OSError:
+                f.seek(0)
+            last_line = f.readline().decode()
+
+        if "we are pleased" in last_line:
+            print(last_line)
         # observer.resume()
         
         

@@ -1,4 +1,4 @@
-from re import sub
+from random import randrange
 import random, string
 from time import sleep
 from pymongo import MongoClient
@@ -10,12 +10,13 @@ from stem import Signal, response
 from stem.control import Controller
 import threading, os
 
-name = os.environ['MONGODB_USERNAME']
-if name is not None:
-    MONGO_URI = 'mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + '@' + os.environ['MONGODB_HOSTNAME'] + ':27017/' + os.environ['MONGODB_DATABASE']
-else:
-    MONGO_URI = 'mongodb://flaskuser:herchat@35.180.205.186:27017/person_info'
-    
+try:
+    name = os.environ['MONGODB_USERNAME']
+    if name is not None:
+        MONGO_URI = 'mongodb://' + os.environ['MONGODB_USERNAME'] + ':' + os.environ['MONGODB_PASSWORD'] + '@' + os.environ['MONGODB_HOSTNAME'] + ':27017/' + os.environ['MONGODB_DATABASE']
+except:
+        MONGO_URI = 'mongodb://flaskuser:herchat@35.180.234.41:27017/person_info'
+
 mongo_client = MongoClient(MONGO_URI)
 
 person_db = mongo_client.person_info
@@ -52,16 +53,11 @@ def email_account(fullname, domain):
 
 def send_request(person):
     global TOTAL_COUNT
+    _slept = randrange(10)
+    sleep(_slept)
+
     rdv_page = person_db.rdv
 
-    # all_rdv_object = {
-    #     "date": datetime.now(),
-    #     "prefer": "faubourg",
-    #     "rdv_list": []
-    # }
-    # all_rdv = rdv_page.insert_one(all_rdv_object)
-
-    rdv_list = []
     # for person in person_list:
     rdv = person.copy()
     _id = rdv.pop("_id")
@@ -77,9 +73,26 @@ def send_request(person):
     else:
         rdv["status"] = False
         print("rdv request sent failed")
-    rdv_list.append(rdv)
+    # rdv_list.append(rdv)
     rdv_page.insert_one(rdv)
     # all_rdv_object["rdv_list"] = rdv_list
+    return int(rdv["status"])
+
+def resend_request(failed):
+    # _id = failed.pop("_id")
+    _slept = randrange(10)
+    sleep(_slept)
+    # print(failed)
+    redirct_url = send_rdv_infos(failed)
+    failed["url"] = redirct_url
+
+    if redirct_url and len(redirct_url) >= len("https://rendezvousparis.hermes.com/client/register/"):
+        failed["status"] = True
+    else:
+        failed["status"] = False
+        print("rdv request sent failed")
+    # rdv_list.append(rdv)
+    rdv_page.replace_one({"_id":failed["_id"]}, failed,upsert=True)
 
 
 def send_sms(rdv_page, phone_number):
@@ -91,7 +104,7 @@ def send_sms(rdv_page, phone_number):
     tried =0
     # while True:
     # print("waiting for sms...")
-    new_rdv = rdv_page.find_one({"phone_number": str(phone_number), "status": True, "have_code": True})
+    new_rdv = rdv_page.find_one({"phone_number": str(phone_number), "status": True, "have_code": True, "date": {"$lt": end, "$gte": start}})
     # person = new_rdv["rdv_list"][0]
     print(new_rdv)
     code = new_rdv.get("code", None)

@@ -16,7 +16,7 @@ def send_sms_code(url,code):
             },
             data={"sms_code": code}
         )
-    print(send_sms_response)
+    # print(send_sms_response)
     # print(send_sms_response.text)
     if send_sms_response.status_code == 200 and "Your request for a Leather Goods appointment has been registered" in send_sms_response.text:
         return True
