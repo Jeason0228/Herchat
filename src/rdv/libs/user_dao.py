@@ -23,7 +23,7 @@ def get_all_users(db_page):
     return person_list
 
 def get_all_user_by_line(db_page, sim_line):
-    person_list = list(db_page.find({"sim_line": sim_line}))
+    person_list = list(db_page.find({"sim_line": int(sim_line)}))
     return person_list
 
 def get_all_failed_by_line(rdv_page, sim_line):

@@ -112,6 +112,7 @@ def send(sim_line):
     all_user = get_all_user_by_line(person_page, sim_line)
     # _div = [all_user[i:i+4] for i in range(0, len(all_user), 4)]
     count = 0
+    # print(all_user)
     for p in all_user:
         count += send_request(p)
     fialed = len(all_user) - count
