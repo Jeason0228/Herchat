@@ -27,6 +27,7 @@ def get_all_user_by_line(db_page, sim_line):
     return person_list
 
 def get_all_failed_by_line(rdv_page, sim_line):
+    sim_line = int(sim_line)
     start = datetime.combine(date.today(), datetime.min.time())
     end = datetime.combine(date.today(), datetime.max.time())
     failed_list = list(rdv_page.find({"$or": [{"sim_line": sim_line, "code_sent": False, "date": {"$lt": end, "$gte": start}}, {"sim_line": sim_line, "status": False, "date": {"$lt": end, "$gte": start}}, {
