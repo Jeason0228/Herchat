@@ -4,7 +4,7 @@ from pymongo import MongoClient
 from datetime import datetime, date
 from flask import jsonify
 from multiprocessing import Pool
-
+from flask import jsonify
 import os
 import json
 from wtforms.fields.core import SelectField
@@ -12,7 +12,7 @@ from libs.save_info import *
 from libs.excel_parse import *
 from libs.user_dao import *
 from libs.sms_receive import *
-# from libs.detect import *
+from libs.detect import *
 import pandas as pd
 from flask import send_file
 
@@ -131,11 +131,12 @@ def send(sim_line):
 
 @app.route("/resend/<sim_line>/")
 def resend(sim_line):
-    all_user = get_all_failed_by_line(person_page, sim_line)
+    all_user = get_all_failed(rdv_page)
+    # print(len(all_user))
     # _div = [all_user[i:i+4] for i in range(0, len(all_user), 4)]
     count = 0
     for p in all_user:
-        count += send_request(p)
+        count += resend_request(p)
     fialed = len(all_user) - count
     return f"sim line {sim_line} sent, {fialed} failed."
 
@@ -186,14 +187,16 @@ def detect():
     all_rdv = get_all_successed(rdv_page)
     # rdv_object = rdv_page.find_one({"rdv_list": {"$elemMatch": {"phone_number": "33769142022"}}})
     # send_sms(rdv_page, "33758145465")
+    result = []
     for p in all_rdv:
 
         url = p["url"].replace("/register/", "/")
-        print(url)
-        detect_ok(url, p)
+        # print(url)
+        ok = detect_ok(url, p)
+        result.append(ok)
         # sleep(100)
     # print(rdv_object)
-    return "dict(rdv_object)"
+    return jsonify(result)
 
 
 @app.route("/test")

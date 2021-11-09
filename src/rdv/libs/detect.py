@@ -4,7 +4,7 @@ import requests
 
 import pandas as pd
 
-def parse_excel(file):
+def parse_excel_detect(file):
     df = pd.read_excel(file)
     person_list = []
     for index, row in df.iterrows():
@@ -24,5 +24,8 @@ def detect_ok(url, p):
         )
     # print("Last name" in rdv_response.text)
     
-    if "we are extremely sorry that we were not able to fulfill your request this time" not in rdv_response.text and "Last name" not in rdv_response.text:
+    if "sorry" not in rdv_response.text and "Last name" not in rdv_response.text and "Your request for a Leather Goods appointment has been registered" not in rdv_response.text and "Your schedule code" not in rdv_response.text:
         print(p)
+        return p["phone_number"]
+    else:
+        return None

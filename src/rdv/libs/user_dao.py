@@ -46,6 +46,6 @@ def get_all_failed(rdv_page):
 def get_all_successed(rdv_page):
     start = datetime.combine(date.today(), datetime.min.time())
     end = datetime.combine(date.today(), datetime.max.time())
-    failed_list = list(rdv_page.find({"code_sent": True, "date": {"$lt": end, "$gte": start}}))
+    failed_list = list(rdv_page.find({"code_sent": True}))
 
     return failed_list
